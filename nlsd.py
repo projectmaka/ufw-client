@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-ingest_server = 'https://projectmaka.io'
+ingest_server = 'https://s.en0.io'
 ingest_endpoint = '/api/v1/logevent/ufw'
 print('set ingest server to ' + ingest_server)
 infile = open('/home/nlsd/key', 'r')
